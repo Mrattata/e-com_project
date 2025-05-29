@@ -1,4 +1,5 @@
 import ProductItem from "./ProductItem";
+import './components.css';
 
 function ProductList({ products }) {
     return (
